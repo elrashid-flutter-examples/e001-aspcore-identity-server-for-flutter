@@ -38,3 +38,6 @@ msbuild.wrn
 
 # elrashid dotnet core mvc and api app deploy to ubuntu script
 0_deploy_scripts/script.0.env.setup.secret.bat
+
+# IdentityServer DeveloperSigningCredential
+tempkey.rsa
