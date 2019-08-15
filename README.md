@@ -2,7 +2,7 @@
 
 ## What
 
-- This is Identity Server an OAuth server
+- This is Identity Server an OAuth server (dotnet core)
 
 ## Script ( for more info)
 
@@ -14,9 +14,9 @@
 
   - [elrashid-flutter-examples/e002-aspcore-rest-api-server-for-flutter](https://github.com/elrashid-flutter-examples/e002-aspcore-rest-api-server-for-flutter)
 
+  - [elrashid-flutter-examples/e002s-aspcore-rest-api-server-for-flutter-secure]
+  (https://github.com/elrashid-flutter-examples/e002s-aspcore-rest-api-server-for-flutter-secure)
+
 ## used with
 
-- [elrashid-flutter-examples/e002s-aspcore-rest-api-server-for-flutter-secure](https://github.com/elrashid-flutter-examples/e002s-aspcore-rest-api-server-for-flutter-secure)
-
-- [elrashid-flutter-examples/e003_flutter_listview_crud_app_using_oauth2_secure_rest_api](https://github.com/elrashid-flutter-examples/e003_flutter_listview_crud_app_using_oauth2_secure_rest_api)
-
+ 
