@@ -2,9 +2,9 @@
 
 ## What
 
-- This is Identity Server an OAuth server 
+- This is Identity Server an OAuth server
 
-## Script
+## Script ( for more info)
 
 - [# Flow 4 - hybrid flow - Two Apps For API And Web - Identity Server - OAuth - OpenID Connect](https://gist.github.com/Elrashid/94720846435693b78fb7729c7eb4530b)
 
